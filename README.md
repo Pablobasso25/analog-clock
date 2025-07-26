@@ -32,7 +32,7 @@ Un elegante reloj analógico hecho con HTML, CSS y JavaScript. Incluye modo clar
 
 ## 📁 Project Structure | Estructura del Proyecto
 
----
+```
 analog-clock/
 ├── index.html
 ├── style.css
@@ -40,7 +40,7 @@ analog-clock/
 ├── assets/
        └── demo.png
 
----
+```
 
 ---
 
