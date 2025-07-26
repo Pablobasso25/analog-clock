@@ -6,11 +6,6 @@ Un elegante reloj analógico hecho con HTML, CSS y JavaScript. Incluye modo clar
 
 ---
 
-## 📸 Screenshot | Captura
-
-![Demo] (assets/demo.png)
-
----
 
 ## 🚀 Features | Características
 
