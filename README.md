@@ -62,7 +62,9 @@ cd analog-clock
 
 ✨ Live Preview | Vista Previa
 
-👉 View on GitHub Pages | Ver en GitHub Pages (https://yourusername.github.io/analog-clock)
+👉 View on GitHub Pages | Ver en GitHub Pages
+
+(https://pablobasso25.github.io/analog-clock/)
 
 
 ---
