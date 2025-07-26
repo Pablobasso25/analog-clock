@@ -48,7 +48,7 @@ analog-clock/
 
 1. Clone the repository | Clonar el repositorio:
 bash
-git clone https://github.com/tuusuario/analog-clock.git
+git clone https://github.com/Pablobasso25/analog-clock.git
 cd analog-clock
 
 2. Open `index.html` in your browser. |  Abrí `index.html` en tu navegador.
