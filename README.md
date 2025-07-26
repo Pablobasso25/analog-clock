@@ -32,7 +32,7 @@ Un elegante reloj analógico hecho con HTML, CSS y JavaScript. Incluye modo clar
 
 ## 📁 Project Structure | Estructura del Proyecto
 
-```
+---
 analog-clock/
 ├── index.html
 ├── style.css
@@ -40,14 +40,14 @@ analog-clock/
 ├── assets/
        └── demo.png
 
-```
+---
 
 ---
 
 ## ▶️ How to Use | Cómo Usar
 
 1. Clone the repository | Clonar el repositorio:
-```bash
+bash
 git clone https://github.com/tuusuario/analog-clock.git
 cd analog-clock
 
